@@ -15,4 +15,4 @@ const instagram={
     bio:"_____________________________________________"
 }
 
-console.log(instagram.userName)
+console.log(instagram.bio)
